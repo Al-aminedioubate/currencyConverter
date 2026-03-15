@@ -23,3 +23,11 @@ body{
     flex-direction: row;
     justify-content: space-around;
 }
+
+.container2{
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
