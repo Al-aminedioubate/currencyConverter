@@ -33,5 +33,12 @@ body{
 }
 
 .currencyTwo{
-    padding-right: 175px;
+    padding-right: 172px;
+}
+
+#currency-input{
+    border-style: none;
+    text-align: end;
+    outline-style: none;
+    font-size: large;
 }
