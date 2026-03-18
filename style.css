@@ -55,3 +55,7 @@ select{
     height: 40px;
     text-align: center;
 }
+
+#currency-converted-result{
+    font-size: large;
+}
