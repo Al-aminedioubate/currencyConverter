@@ -47,6 +47,7 @@ body{
     outline-style: none;
     font-size: large;
     background-color: lightseagreen;
+    color: white;
 }
 
 select{
