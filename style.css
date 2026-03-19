@@ -45,6 +45,7 @@ body{
     padding-right: 245px;
 }
 
+/*Section input style*/
 #currency-input{
     border-style: none;
     text-align: end;
@@ -54,6 +55,7 @@ body{
     color: white;
 }
 
+/*Section drop down style*/
 select{
     width: 70px;
     height: 40px;
