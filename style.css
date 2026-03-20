@@ -63,6 +63,7 @@ select{
     text-align: center;
 }
 
+/*Section result style*/
 #currency-converted-result{
     font-size: large;
 }
